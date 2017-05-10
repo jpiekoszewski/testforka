@@ -7,13 +7,17 @@ package projekt_git;
 
 /**
  *
- * @author patryk
+ * @author jarek.piekoszewski
  */
-public class KlasaPatryka {
+public class KlasaJarka {
+    
+    
     public static void main(String[] args) {
-        System.out.println("Klasa od Patryka");
-        System.out.println("A gdzie guma??");
-        System.out.println("Pęknięta guma");
- 
+        
+        System.out.println("Jarka klasaaaaaaaaa!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+       System.out.println("kurs java");
+        
+        
     }
+    
 }
