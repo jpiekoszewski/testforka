@@ -15,6 +15,7 @@ public class KlasaJarka {
     public static void main(String[] args) {
         
         System.out.println("Jarka klasaaaaaaaaa!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+       System.out.println("kurs java");
         
         
     }
