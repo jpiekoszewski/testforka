@@ -12,7 +12,7 @@ package projekt_git;
 public class KlasaBartka {
     
     public static void main(String[] args) {
-        
+        System.out.println("Teraz cos napisze...");
     }
             
             
