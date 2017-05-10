@@ -12,5 +12,8 @@ package projekt_git;
 public class KlasaPatryka {
     public static void main(String[] args) {
         System.out.println("Klasa od Patryka");
+        
+        
+        System.out.println("Pęknięta guma");
     }
 }
